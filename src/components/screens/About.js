@@ -2,7 +2,7 @@ import React from "react";
 import Skills from "../utils/Skills";
 import "../styles/About.css";
 import Experience from "../utils/Experience";
-import aboutme from "../../assets/images/aboutme2.png";
+import aboutme from "../../assets/images/me.png";
 import {
     programmingLanguages,
     MachineLearning,
@@ -20,7 +20,7 @@ export default function About() {
                 <div className="expWrapper">
                     <div className="experience">
                         <h1>Hello! I am</h1>
-                        <span className="name">Priya Nagda,</span>
+                        <span className="name">Potter Amos,</span>
                         <p className="aboutMe">
                             a 2023 Computer Engineering graduate from VJTI,
                             Mumbai.
@@ -29,7 +29,7 @@ export default function About() {
                             numerous Deep Learning and Full Stack Development
                             projects under my hood, details of which you can
                             find here -{" "}
-                            <a href="https://github.com/pri1311?tab=repositories">
+                            <a href="https://github.com/popcorn-del?tab=repositories">
                                 GitHub
                             </a>
                             <br />
